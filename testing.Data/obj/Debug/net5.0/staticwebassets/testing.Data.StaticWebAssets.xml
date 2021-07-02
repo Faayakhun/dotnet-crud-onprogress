@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="E:\testing\testing.Data\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/testing.Core" Path="E:\testing\testing.Core\obj\Debug\net5.0\scopedcss\projectbundle\" />
+  <ContentRoot BasePath="_content/testing.Core" Path="E:\testing\testing.Core\wwwroot\" />
+</StaticWebAssets>

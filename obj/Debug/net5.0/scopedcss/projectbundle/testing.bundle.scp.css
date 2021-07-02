@@ -1,0 +1,16 @@
+@import '';
+
+/* _content/testing/testing.Core/Component1.razor.rz.scp.css */
+.my-component[b-kylx2za8xv] {
+    border: 2px dashed red;
+    padding: 1em;
+    margin: 1em 0;
+    background-image: url('background.png');
+}
+/* _content/testing/testing.Data/Component1.razor.rz.scp.css */
+.my-component[b-rqin70nlv8] {
+    border: 2px dashed red;
+    padding: 1em;
+    margin: 1em 0;
+    background-image: url('background.png');
+}
